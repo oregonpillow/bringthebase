@@ -1,6 +1,6 @@
 # bringthebase
 Simple Base64 encoder / decoder. 
-Currently working on adding ability to use arbitrary base set of users' choosing.
+Currently working on adding ability to use an arbitrary base set of users' choosing / creation, hence 'bring the base'.
 
 
 <ul><h3>Usage:</h3>
