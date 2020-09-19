@@ -1,5 +1,5 @@
 # bringthebase
-Simple Base64 encoder /decoder. 
+Simple Base64 encoder / decoder. 
 Currently working on adding ability to use arbitrary base set of users' choosing.
 
 
